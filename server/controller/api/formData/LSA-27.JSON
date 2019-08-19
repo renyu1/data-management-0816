@@ -1,0 +1,521 @@
+{
+  "tableId": "LSA-27",
+  "tableList": [
+    {
+      "createTime": 0,
+      "formID": "",
+      "content": {
+        "name": "中央计划表-CENTRAL MAINTENANCE SCHEDULE FORM",
+        "tableId": "LSA-27",
+        "list": [
+          {
+            "addRowFlag": true,
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统-subsystem",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "预防性维修计划编号-PMS NO",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备名-Description",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "部门-DEPT",
+                "key": "para4"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": ""
+              }
+            ],
+            "tableInfo": ""
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构 WBS/位置 L0CATION",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名号-MOP0",
+                "key": "para6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作信息卡JIC",
+                "key": "para7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名称 Job Description",
+                "key": "para8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "由谁作 By who",
+                "key": "para9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期 PERIOD",
+                "key": "para10"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "行号Line",
+                "key": "para11"
+              }
+            ],
+            "tableBody": [
+              {
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": "",
+                "para11": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-27-2",
+      "content": {
+        "name": "中央计划表-CENTRAL MAINTENANCE SCHEDULE FORM",
+        "tableId": "LSA-27",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统-subsystem",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "wrwnaM"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "预防性维修计划编号-PMS NO",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "6O7ihw"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备名-Description",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "skQSp9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "部门-DEPT",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "tiWU8B"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1",
+                "para2": "2",
+                "para3": "3",
+                "para4": "4"
+              }
+            ],
+            "tableInfo": "",
+            "addRowFlag": true
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构 WBS/位置 L0CATION",
+                "key": "para5",
+                "xIndex": 1,
+                "__id": "to2pAs"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名号-MOP0",
+                "key": "para6",
+                "xIndex": 1,
+                "__id": "EjhA18"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作信息卡JIC",
+                "key": "para7",
+                "xIndex": 1,
+                "__id": "NdTPkW"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名称 Job Description",
+                "key": "para8",
+                "xIndex": 1,
+                "__id": "Rig3mG"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "由谁作 By who",
+                "key": "para9",
+                "xIndex": 1,
+                "__id": "YobNAn"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期 PERIOD",
+                "key": "para10",
+                "xIndex": 1,
+                "__id": "jLWd3u"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "行号Line",
+                "key": "para11",
+                "xIndex": 1,
+                "__id": "45yCXa"
+              }
+            ],
+            "tableBody": [
+              {
+                "para5": "5",
+                "para6": "6",
+                "para7": "7",
+                "para8": "8",
+                "para9": "9",
+                "para10": "11",
+                "para11": "12"
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560933194629
+    },
+    {
+      "formID": "LSA-27-3",
+      "content": {
+        "name": "中央计划表-CENTRAL MAINTENANCE SCHEDULE FORM",
+        "tableId": "LSA-27",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统-subsystem",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "uOZCVQ"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "预防性维修计划编号-PMS NO",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "0maaWj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备名-Description",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "tVSLDW"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "部门-DEPT",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "JYjO57"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1",
+                "para2": "1",
+                "para3": "1",
+                "para4": "1"
+              }
+            ],
+            "tableInfo": "",
+            "addRowFlag": true
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构 WBS/位置 L0CATION",
+                "key": "para5",
+                "xIndex": 1,
+                "__id": "cGrY05"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名号-MOP0",
+                "key": "para6",
+                "xIndex": 1,
+                "__id": "1Pu6yv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作信息卡JIC",
+                "key": "para7",
+                "xIndex": 1,
+                "__id": "DSxKQN"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名称 Job Description",
+                "key": "para8",
+                "xIndex": 1,
+                "__id": "Wy2jdp"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "由谁作 By who",
+                "key": "para9",
+                "xIndex": 1,
+                "__id": "EMqbbq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期 PERIOD",
+                "key": "para10",
+                "xIndex": 1,
+                "__id": "zKQrSi"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "行号Line",
+                "key": "para11",
+                "xIndex": 1,
+                "__id": "F3dAXz"
+              }
+            ],
+            "tableBody": [
+              {
+                "para5": "1",
+                "para6": "1",
+                "para7": "1",
+                "para8": "1",
+                "para9": "1",
+                "para10": "1",
+                "para11": "1"
+              },
+              {
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "1",
+                "para10": "1",
+                "para11": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560939076884
+    },
+    {
+      "formID": "LSA-27-4",
+      "content": {
+        "name": "中央计划表-CENTRAL MAINTENANCE SCHEDULE FORM",
+        "tableId": "LSA-27",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统-subsystem",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "gXWS4P"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "预防性维修计划编号-PMS NO",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "D5bYJA"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备名-Description",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "LRlaoH"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "部门-DEPT",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "oFQ9sJ"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "0",
+                "para2": "0",
+                "para3": "0",
+                "para4": "0"
+              }
+            ],
+            "tableInfo": "",
+            "addRowFlag": true
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构 WBS/位置 L0CATION",
+                "key": "para5",
+                "xIndex": 1,
+                "__id": "uI9OFu"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名号-MOP0",
+                "key": "para6",
+                "xIndex": 1,
+                "__id": "VpVHW6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作信息卡JIC",
+                "key": "para7",
+                "xIndex": 1,
+                "__id": "ho9rXM"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目名称 Job Description",
+                "key": "para8",
+                "xIndex": 1,
+                "__id": "1YSBgO"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "由谁作 By who",
+                "key": "para9",
+                "xIndex": 1,
+                "__id": "mQBqjc"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期 PERIOD",
+                "key": "para10",
+                "xIndex": 1,
+                "__id": "03Cmya"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "行号Line",
+                "key": "para11",
+                "xIndex": 1,
+                "__id": "jCblh5"
+              }
+            ],
+            "tableBody": [
+              {
+                "para5": "1",
+                "para6": "1",
+                "para7": "1",
+                "para8": "1",
+                "para9": "1",
+                "para10": "1",
+                "para11": "1"
+              },
+              {
+                "para5": "1",
+                "para6": "1",
+                "para7": "1",
+                "para8": "1",
+                "para9": "1",
+                "para10": "1",
+                "para11": "1"
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560999109255
+    }
+  ]
+}

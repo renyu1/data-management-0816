@@ -1,0 +1,132 @@
+{
+  "tableId": "LSA-12",
+  "tableList": [
+    {
+      "formID": "",
+      "createTime": 0,
+      "content": {
+        "name": "装备基本信息",
+        "tableId": "LSA-12",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "序号 S.No.",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "名称 Description",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "数量 QTY",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "ESWBS",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "MEC",
+                "key": "para5"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-12-2",
+      "content": {
+        "name": "装备基本信息",
+        "tableId": "LSA-12",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "序号 S.No.",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "gMMe8l"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "名称 Description",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "EcdeAr"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "数量 QTY",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "VQCkGo"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "ESWBS",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "zBQhtw"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "MEC",
+                "key": "para5",
+                "xIndex": 0,
+                "__id": "3v2JGl"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1",
+                "para2": "2",
+                "para3": "1",
+                "para4": "2",
+                "para5": "1"
+              },
+              {
+                "para1": "1",
+                "para2": "2",
+                "para3": "2",
+                "para4": "",
+                "para5": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560932032349
+    }
+  ]
+}

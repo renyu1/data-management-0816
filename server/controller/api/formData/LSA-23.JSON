@@ -1,0 +1,723 @@
+{
+  "tableId": "LSA-23",
+  "tableList": [
+    {
+      "createTime": 0,
+      "formID": "",
+      "content": {
+        "name": "艇员日常维护保养条例",
+        "tableId": "LSA-23",
+        "list": [
+          {
+            "addRowFlag": true,
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "VLF system",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统 subsystem",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期PERIOD",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构WBS",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "APL识别码APL No.",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码Page",
+                "key": "para6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "位置Location:",
+                "key": "para7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "版本号Issue No.",
+                "key": "para8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日期Date",
+                "key": "para9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目Programme",
+                "key": "para10"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": ""
+              }
+            ],
+            "tableInfo": ""
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目Programme",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-1",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-2",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-3",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-4",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-5",
+                "key": "para6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-6",
+                "key": "para7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-7",
+                "key": "para8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-8",
+                "key": "para9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-9",
+                "key": "para10"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-10",
+                "key": "para11"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-11",
+                "key": "para12"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-12",
+                "key": "para13"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-13",
+                "key": "para14"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-14",
+                "key": "para15"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-15",
+                "key": "para16"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-16",
+                "key": "para17"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-17",
+                "key": "para18"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-18",
+                "key": "para19"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-19",
+                "key": "para20"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-20",
+                "key": "para21"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-21",
+                "key": "para22"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-22",
+                "key": "para23"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-23",
+                "key": "para24"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-24",
+                "key": "para25"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-25",
+                "key": "para26"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-26",
+                "key": "para27"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-27",
+                "key": "para28"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-28",
+                "key": "para29"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-30",
+                "key": "para31"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-31",
+                "key": "para32"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": "",
+                "para11": "",
+                "para12": "",
+                "para13": "",
+                "para14": "",
+                "para15": "",
+                "para16": "",
+                "para17": "",
+                "para18": "",
+                "para19": "",
+                "para20": "",
+                "para21": "",
+                "para22": "",
+                "para23": "",
+                "para24": "",
+                "para25": "",
+                "para26": "",
+                "para27": "",
+                "para28": "",
+                "para29": "",
+                "para30": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-23-2",
+      "content": {
+        "name": "艇员日常维护保养条例",
+        "tableId": "LSA-23",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "VLF system",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "Q7mRfz"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统 subsystem",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "Lhey0K"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "周期PERIOD",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "95jXae"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "工作分解结构WBS",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "nrmvfR"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "APL识别码APL No.",
+                "key": "para5",
+                "xIndex": 0,
+                "__id": "46chtM"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码Page",
+                "key": "para6",
+                "xIndex": 0,
+                "__id": "2Of9ha"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "位置Location:",
+                "key": "para7",
+                "xIndex": 0,
+                "__id": "tM2rRt"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "版本号Issue No.",
+                "key": "para8",
+                "xIndex": 0,
+                "__id": "KTgLyB"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日期Date",
+                "key": "para9",
+                "xIndex": 0,
+                "__id": "QBpKmK"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目Programme",
+                "key": "para10",
+                "xIndex": 0,
+                "__id": "NZdpcZ"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1",
+                "para2": "2",
+                "para3": "3",
+                "para4": "4",
+                "para5": "5",
+                "para6": "6",
+                "para7": "7",
+                "para8": "8",
+                "para9": "9",
+                "para10": "11"
+              }
+            ],
+            "tableInfo": "",
+            "addRowFlag": true
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "维修项目Programme",
+                "key": "para1",
+                "xIndex": 1,
+                "__id": "Fbhpiq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-1",
+                "key": "para2",
+                "xIndex": 1,
+                "__id": "OMHKAg"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-2",
+                "key": "para3",
+                "xIndex": 1,
+                "__id": "fo6OU5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-3",
+                "key": "para4",
+                "xIndex": 1,
+                "__id": "Q6o3a8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-4",
+                "key": "para5",
+                "xIndex": 1,
+                "__id": "3f1AoV"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-5",
+                "key": "para6",
+                "xIndex": 1,
+                "__id": "83xL45"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-6",
+                "key": "para7",
+                "xIndex": 1,
+                "__id": "96dLqh"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-7",
+                "key": "para8",
+                "xIndex": 1,
+                "__id": "po5oEv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-8",
+                "key": "para9",
+                "xIndex": 1,
+                "__id": "TmToGE"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-9",
+                "key": "para10",
+                "xIndex": 1,
+                "__id": "IOLKAa"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-10",
+                "key": "para11",
+                "xIndex": 1,
+                "__id": "naaCMc"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-11",
+                "key": "para12",
+                "xIndex": 1,
+                "__id": "D9Afbn"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-12",
+                "key": "para13",
+                "xIndex": 1,
+                "__id": "qSigEX"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-13",
+                "key": "para14",
+                "xIndex": 1,
+                "__id": "1uKoo5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-14",
+                "key": "para15",
+                "xIndex": 1,
+                "__id": "Cfwbqq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-15",
+                "key": "para16",
+                "xIndex": 1,
+                "__id": "NCd6VG"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-16",
+                "key": "para17",
+                "xIndex": 1,
+                "__id": "nQoEjo"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-17",
+                "key": "para18",
+                "xIndex": 1,
+                "__id": "rX5loK"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-18",
+                "key": "para19",
+                "xIndex": 1,
+                "__id": "6k0ynq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-19",
+                "key": "para20",
+                "xIndex": 1,
+                "__id": "CzGDb5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-20",
+                "key": "para21",
+                "xIndex": 1,
+                "__id": "sdlG38"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-21",
+                "key": "para22",
+                "xIndex": 1,
+                "__id": "iNzG40"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-22",
+                "key": "para23",
+                "xIndex": 1,
+                "__id": "eLen2s"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-23",
+                "key": "para24",
+                "xIndex": 1,
+                "__id": "ipFp3X"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-24",
+                "key": "para25",
+                "xIndex": 1,
+                "__id": "Rg9ljI"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-25",
+                "key": "para26",
+                "xIndex": 1,
+                "__id": "SdL1eW"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-26",
+                "key": "para27",
+                "xIndex": 1,
+                "__id": "jKIX1Z"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-27",
+                "key": "para28",
+                "xIndex": 1,
+                "__id": "w0AWBA"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-28",
+                "key": "para29",
+                "xIndex": 1,
+                "__id": "r4dXUP"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-30",
+                "key": "para31",
+                "xIndex": 1,
+                "__id": "bvFB3G"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "日/周Day/Week-31",
+                "key": "para32",
+                "xIndex": 1,
+                "__id": "q4Wpdh"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "12",
+                "para2": "111",
+                "para3": "222",
+                "para4": "333",
+                "para5": "444",
+                "para6": "555",
+                "para7": "666",
+                "para8": "777",
+                "para9": "888",
+                "para10": "999",
+                "para11": "000",
+                "para12": "1111",
+                "para13": "2222",
+                "para14": "3333",
+                "para15": "4444",
+                "para16": "5555",
+                "para17": "6666",
+                "para18": "7777",
+                "para19": "8888",
+                "para20": "9999",
+                "para21": "00000",
+                "para22": "11111",
+                "para23": "22222",
+                "para24": "33333",
+                "para25": "44444",
+                "para26": "55555",
+                "para27": "66666",
+                "para28": "77777",
+                "para29": "88888",
+                "para30": "",
+                "para31": "9999",
+                "para32": "00000"
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560933136130
+    }
+  ]
+}

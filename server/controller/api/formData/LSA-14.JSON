@@ -1,0 +1,211 @@
+{
+  "tableId": "LSA-14",
+  "tableList": [
+    {
+      "formID": "",
+      "createTime": 0,
+      "content": {
+        "name": "技术状态分析",
+        "tableId": "LSA-14",
+        "list": [
+          {
+            "tableName": "",
+            "addRowFlag": true,
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统 Subsystem",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "报告日期 Date Report",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码 Page",
+                "key": "para3"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": ""
+              }
+            ],
+            "tableInfo": ""
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "ESWBS",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "名称 Description",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "数量 QTY",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "位置名称 Location Name",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "APL/AEL No.",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "PMS No.",
+                "key": "para6"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-14-2",
+      "content": {
+        "name": "技术状态分析-2",
+        "tableId": "",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "分系统 Subsystem",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "dSg6mC"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "报告日期 Date Report",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "f9TZpv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码 Page",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "O5ZzsX"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": ""
+              }
+            ],
+            "tableInfo": "",
+            "addRowFlag": true
+          },
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "ESWBS",
+                "key": "para1",
+                "xIndex": 1,
+                "__id": "JdcOqj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "名称 Description",
+                "key": "para2",
+                "xIndex": 1,
+                "__id": "zqIzKx"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "数量 QTY",
+                "key": "para3",
+                "xIndex": 1,
+                "__id": "tAb9K3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "位置名称 Location Name",
+                "key": "para4",
+                "xIndex": 1,
+                "__id": "El721a"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "APL/AEL No.",
+                "key": "para5",
+                "xIndex": 1,
+                "__id": "GopxSi"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "PMS No.",
+                "key": "para6",
+                "xIndex": 1,
+                "__id": "zLsgJ5"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560932385990
+    }
+  ]
+}

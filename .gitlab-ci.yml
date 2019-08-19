@@ -1,0 +1,34 @@
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - build
+  - dockerBuild
+
+build:
+  image: what-ubuntu2:5000/node:10.16.0-alpine
+  stage: build
+  before_script:
+    - npm install
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - dist/
+      - server/
+      - views/
+
+dockerBuild:
+  image: what-ubuntu2:5000/gitlab/java-mvn-docker:8-18.06
+  stage: dockerBuild
+  before_script:
+    - export BUILD_VERSION=1.0.$(date +%Y%m%d)$(printf "%04d" ${CI_PIPELINE_ID})
+  script:
+    - docker build -t what-ubuntu2:5000/management-demo:${BUILD_VERSION} .
+    - docker tag what-ubuntu2:5000/management-demo:${BUILD_VERSION} what-ubuntu2:5000/management-demo:latest
+    - docker push what-ubuntu2:5000/management-demo:latest
+    - docker push what-ubuntu2:5000/management-demo:${BUILD_VERSION}
+    - docker rmi what-ubuntu2:5000/management-demo:latest
+    - docker rmi what-ubuntu2:5000/management-demo:${BUILD_VERSION}
+

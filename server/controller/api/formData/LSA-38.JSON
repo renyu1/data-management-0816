@@ -1,0 +1,333 @@
+{
+  "tableId": "LSA-38",
+  "tableList": [
+    {
+      "formID": "",
+      "createTime": 0,
+      "content": {
+        "name": "COSMAL(|||)-岸上库存代码顺序清单(表SP-18)、COSMAL(|||)-STOCK NUMBER SEQUENCE LIST (TABLE sp-18)",
+        "tableId": "LSA-38",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "国家储存码 NSN",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "物品名 Item Name",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "AWC(0380)",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备/部件/用具识别码 Identification No",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "单位 U/L",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "推荐数量 REC QTY",
+                "key": "para6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "物品总量 Raw Pop",
+                "key": "para7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "大概数量 Raw QTY)",
+                "key": "para8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "有效期活动码 SLA)",
+                "key": "para9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "储存场所类型码 TSS)",
+                "key": "para10"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "特殊材料内含码 SMC",
+                "key": "para11"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "安全级别码 SC",
+                "key": "para12"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "一般类型 G/C",
+                "key": "para13"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "PMS类型 PMS/C",
+                "key": "para14"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "单价 Unit Price",
+                "key": "para15"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "币种 Currency",
+                "key": "para16"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "扩展价格 Extended Price",
+                "key": "para17"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "订货周期 Lead time",
+                "key": "para18"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": "",
+                "para11": "",
+                "para12": "",
+                "para13": "",
+                "para14": "",
+                "para15": "",
+                "para16": "",
+                "para17": "",
+                "para18": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-38-3",
+      "content": {
+        "name": "COSMAL(|||)-岸上库存代码顺序清单(表SP-18)、COSMAL(|||)-STOCK NUMBER SEQUENCE LIST (TABLE sp-18)",
+        "tableId": "LSA-38",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "国家储存码 NSN",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "42PQKh"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "物品名 Item Name",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "v4B8HD"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "AWC(0380)",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "uK0R5t"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "设备/部件/用具识别码 Identification No",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "TZ6J5M"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "单位 U/L",
+                "key": "para5",
+                "xIndex": 0,
+                "__id": "NeE8pU"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "推荐数量 REC QTY",
+                "key": "para6",
+                "xIndex": 0,
+                "__id": "Jubb6O"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "物品总量 Raw Pop",
+                "key": "para7",
+                "xIndex": 0,
+                "__id": "B4VYGO"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "大概数量 Raw QTY)",
+                "key": "para8",
+                "xIndex": 0,
+                "__id": "FgkQpM"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "有效期活动码 SLA)",
+                "key": "para9",
+                "xIndex": 0,
+                "__id": "KJHEvN"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "储存场所类型码 TSS)",
+                "key": "para10",
+                "xIndex": 0,
+                "__id": "u5Z0DV"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "特殊材料内含码 SMC",
+                "key": "para11",
+                "xIndex": 0,
+                "__id": "LOA3Xt"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "安全级别码 SC",
+                "key": "para12",
+                "xIndex": 0,
+                "__id": "UfW73K"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "一般类型 G/C",
+                "key": "para13",
+                "xIndex": 0,
+                "__id": "lP9g9T"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "PMS类型 PMS/C",
+                "key": "para14",
+                "xIndex": 0,
+                "__id": "I0JCMq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "单价 Unit Price",
+                "key": "para15",
+                "xIndex": 0,
+                "__id": "6wFOzO"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "币种 Currency",
+                "key": "para16",
+                "xIndex": 0,
+                "__id": "n1TP4N"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "扩展价格 Extended Price",
+                "key": "para17",
+                "xIndex": 0,
+                "__id": "Y5UPCY"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "订货周期 Lead time",
+                "key": "para18",
+                "xIndex": 0,
+                "__id": "Cldny5"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1720",
+                "para2": "00204",
+                "para3": "00",
+                "para4": "HGOAAAA",
+                "para5": "00",
+                "para6": "300",
+                "para7": "280",
+                "para8": "285",
+                "para9": "N",
+                "para10": "GOG-P-471",
+                "para11": "SN9",
+                "para12": "5S",
+                "para13": "EA",
+                "para14": "BGDAGAA",
+                "para15": "600.00",
+                "para16": "RMB",
+                "para17": "800.00",
+                "para18": "150"
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1561543313083
+    }
+  ]
+}

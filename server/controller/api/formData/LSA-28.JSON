@@ -1,0 +1,1288 @@
+{
+  "tableId": "LSA-28",
+  "tableList": [
+    {
+      "createTime": 0,
+      "formID": "",
+      "content": {
+        "name": "中央计划记录表(OEM)-CENTRAL MAINTENANCE PLAN RECORD FORM (OEM)",
+        "tableId": "LSA-28",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "MAINTOPS>=4M 需要返厂维修作业，周期>=4M",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para4"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para10"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para11"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para12"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para13"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para14"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para15"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para16"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para17"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para18"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para19"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para20"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para21"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para22"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para23"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para24"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para25"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para26"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para27"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para28"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para29"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para30"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para31"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para32"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para33"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para34"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para35"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para36"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para37"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para38"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para39"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para40"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para41"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para42"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para43"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para44"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para45"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para46"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para47"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para48"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para49"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": "",
+                "para11": "",
+                "para12": "",
+                "para13": "",
+                "para14": "",
+                "para15": "",
+                "para16": "",
+                "para17": "",
+                "para18": "",
+                "para19": "",
+                "para20": "",
+                "para21": "",
+                "para22": "",
+                "para23": "",
+                "para24": "",
+                "para25": "",
+                "para26": "",
+                "para27": "",
+                "para28": "",
+                "para29": "",
+                "para31": "",
+                "para32": "",
+                "para33": "",
+                "para34": "",
+                "para35": "",
+                "para36": "",
+                "para37": "",
+                "para38": "",
+                "para39": "",
+                "para40": "",
+                "para41": "",
+                "para42": "",
+                "para43": "",
+                "para44": "",
+                "para45": "",
+                "para46": "",
+                "para47": "",
+                "para48": "",
+                "para49": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "formID": "LSA-28-2",
+      "content": {
+        "name": "中央计划记录表(OEM)-CENTRAL MAINTENANCE PLAN RECORD FORM (OEM)",
+        "tableId": "LSA-28",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "MAINTOPS>=4M 需要返厂维修作业，周期>=4M",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "llZHyC"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "kjpio5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "xRsSwG"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "YqYTQu"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para5",
+                "xIndex": 0,
+                "__id": "d4XE8j"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para6",
+                "xIndex": 0,
+                "__id": "5AWdTr"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para7",
+                "xIndex": 0,
+                "__id": "POhxei"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para8",
+                "xIndex": 0,
+                "__id": "aMeEVX"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para9",
+                "xIndex": 0,
+                "__id": "Btz31R"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para10",
+                "xIndex": 0,
+                "__id": "YqJ2gw"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para11",
+                "xIndex": 0,
+                "__id": "lZCfjG"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para12",
+                "xIndex": 0,
+                "__id": "86KOAj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para13",
+                "xIndex": 0,
+                "__id": "BmLjVv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para14",
+                "xIndex": 0,
+                "__id": "zwGLRp"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para15",
+                "xIndex": 0,
+                "__id": "1x37wQ"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para16",
+                "xIndex": 0,
+                "__id": "gRf6V2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para17",
+                "xIndex": 0,
+                "__id": "YENBll"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para18",
+                "xIndex": 0,
+                "__id": "zI6ORR"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para19",
+                "xIndex": 0,
+                "__id": "BgnDFd"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para20",
+                "xIndex": 0,
+                "__id": "LlrEud"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para21",
+                "xIndex": 0,
+                "__id": "qdGORG"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para22",
+                "xIndex": 0,
+                "__id": "1aUhh6"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para23",
+                "xIndex": 0,
+                "__id": "IZ1imx"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para24",
+                "xIndex": 0,
+                "__id": "LieoeH"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para25",
+                "xIndex": 0,
+                "__id": "DQTYYs"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para26",
+                "xIndex": 0,
+                "__id": "ycYaut"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para27",
+                "xIndex": 0,
+                "__id": "knJvkr"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para28",
+                "xIndex": 0,
+                "__id": "HdZrlj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para29",
+                "xIndex": 0,
+                "__id": "LPi42l"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para30",
+                "xIndex": 0,
+                "__id": "Q3j5Kp"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para31",
+                "xIndex": 0,
+                "__id": "eqPaej"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para32",
+                "xIndex": 0,
+                "__id": "P9SsRB"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para33",
+                "xIndex": 0,
+                "__id": "A5Cw0G"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para34",
+                "xIndex": 0,
+                "__id": "OX23J0"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para35",
+                "xIndex": 0,
+                "__id": "FMkGGJ"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para36",
+                "xIndex": 0,
+                "__id": "6qLXWU"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para37",
+                "xIndex": 0,
+                "__id": "rlAICv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para38",
+                "xIndex": 0,
+                "__id": "EW6yX8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para39",
+                "xIndex": 0,
+                "__id": "3e6zo7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para40",
+                "xIndex": 0,
+                "__id": "cXWPWs"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para41",
+                "xIndex": 0,
+                "__id": "ODse61"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para42",
+                "xIndex": 0,
+                "__id": "BUobVo"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para43",
+                "xIndex": 0,
+                "__id": "POYQaW"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para44",
+                "xIndex": 0,
+                "__id": "2bDtKK"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para45",
+                "xIndex": 0,
+                "__id": "31Zfxh"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para46",
+                "xIndex": 0,
+                "__id": "PTTCYE"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para47",
+                "xIndex": 0,
+                "__id": "nUjM8D"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para48",
+                "xIndex": 0,
+                "__id": "rldaHs"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para49",
+                "xIndex": 0,
+                "__id": "EB7eRe"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "1",
+                "para2": "j",
+                "para3": "f",
+                "para4": "m",
+                "para5": "a",
+                "para6": "m",
+                "para7": "j",
+                "para8": "j",
+                "para9": "o",
+                "para10": "s",
+                "para11": "o",
+                "para12": "n",
+                "para13": "d",
+                "para14": "j",
+                "para15": "f",
+                "para16": "m",
+                "para17": "a",
+                "para18": "m",
+                "para19": "j",
+                "para20": "j",
+                "para21": "o",
+                "para22": "s",
+                "para23": "o",
+                "para24": "n",
+                "para25": "d",
+                "para26": "j",
+                "para27": "f",
+                "para28": "m",
+                "para29": "a",
+                "para31": "j",
+                "para32": "j",
+                "para33": "o",
+                "para34": "s",
+                "para35": "o",
+                "para36": "n",
+                "para37": "d",
+                "para38": "j",
+                "para39": "f",
+                "para40": "m",
+                "para41": "a",
+                "para42": "m",
+                "para43": "j",
+                "para44": "j",
+                "para45": "o",
+                "para46": "s",
+                "para47": "o",
+                "para48": "n",
+                "para49": "d",
+                "para30": "m"
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560933281608
+    },
+    {
+      "formID": "LSA-28-3",
+      "content": {
+        "name": "中央计划记录表(OEM)-CENTRAL MAINTENANCE PLAN RECORD FORM (OEM)",
+        "tableId": "LSA-28",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "MAINTOPS>=4M 需要返厂维修作业，周期>=4M",
+                "key": "para1",
+                "xIndex": 0,
+                "__id": "B1qwWX"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para2",
+                "xIndex": 0,
+                "__id": "XHNwm0"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para3",
+                "xIndex": 0,
+                "__id": "pPcVVH"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para4",
+                "xIndex": 0,
+                "__id": "SB7U23"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para5",
+                "xIndex": 0,
+                "__id": "bcWl6i"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para6",
+                "xIndex": 0,
+                "__id": "f1XZnv"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para7",
+                "xIndex": 0,
+                "__id": "qVPDfm"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para8",
+                "xIndex": 0,
+                "__id": "RnXTRw"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para9",
+                "xIndex": 0,
+                "__id": "IZ39o8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para10",
+                "xIndex": 0,
+                "__id": "E12ELy"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para11",
+                "xIndex": 0,
+                "__id": "Zs5hVr"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para12",
+                "xIndex": 0,
+                "__id": "L1I9Db"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para13",
+                "xIndex": 0,
+                "__id": "1gCVlY"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para14",
+                "xIndex": 0,
+                "__id": "PfiJaM"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para15",
+                "xIndex": 0,
+                "__id": "ARI8LT"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para16",
+                "xIndex": 0,
+                "__id": "nuIAln"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para17",
+                "xIndex": 0,
+                "__id": "Ner1CQ"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para18",
+                "xIndex": 0,
+                "__id": "le4N1E"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para19",
+                "xIndex": 0,
+                "__id": "cbEDw8"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para20",
+                "xIndex": 0,
+                "__id": "zWsQz9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para21",
+                "xIndex": 0,
+                "__id": "HcZsxd"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para22",
+                "xIndex": 0,
+                "__id": "DDpWoN"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para23",
+                "xIndex": 0,
+                "__id": "S0aflE"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para24",
+                "xIndex": 0,
+                "__id": "BjQoB3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para25",
+                "xIndex": 0,
+                "__id": "1MeOJH"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para26",
+                "xIndex": 0,
+                "__id": "6Esrgx"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para27",
+                "xIndex": 0,
+                "__id": "qP0EkI"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para28",
+                "xIndex": 0,
+                "__id": "K1pKTi"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para29",
+                "xIndex": 0,
+                "__id": "9gshsw"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para30",
+                "xIndex": 0,
+                "__id": "v38mkx"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para31",
+                "xIndex": 0,
+                "__id": "yFGzQd"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para32",
+                "xIndex": 0,
+                "__id": "ccmR7U"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para33",
+                "xIndex": 0,
+                "__id": "N0VVG7"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para34",
+                "xIndex": 0,
+                "__id": "1emePo"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para35",
+                "xIndex": 0,
+                "__id": "goqxM5"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para36",
+                "xIndex": 0,
+                "__id": "vUGlwL"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para37",
+                "xIndex": 0,
+                "__id": "Kn8BDp"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para38",
+                "xIndex": 0,
+                "__id": "xXo4Xz"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/F",
+                "key": "para39",
+                "xIndex": 0,
+                "__id": "xbSy1G"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para40",
+                "xIndex": 0,
+                "__id": "Vf0UF9"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/A",
+                "key": "para41",
+                "xIndex": 0,
+                "__id": "yLoiJJ"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/M",
+                "key": "para42",
+                "xIndex": 0,
+                "__id": "OEG0Dq"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para43",
+                "xIndex": 0,
+                "__id": "5fL2Xf"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/J",
+                "key": "para44",
+                "xIndex": 0,
+                "__id": "drUq6x"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para45",
+                "xIndex": 0,
+                "__id": "ZVJ4rW"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/S",
+                "key": "para46",
+                "xIndex": 0,
+                "__id": "ICfiQy"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/O",
+                "key": "para47",
+                "xIndex": 0,
+                "__id": "4SnaWj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/N",
+                "key": "para48",
+                "xIndex": 0,
+                "__id": "UKe4vj"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "20/D",
+                "key": "para49",
+                "xIndex": 0,
+                "__id": "1hwJEj"
+              }
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": "",
+                "para6": "",
+                "para7": "",
+                "para8": "",
+                "para9": "",
+                "para10": "",
+                "para11": "",
+                "para12": "",
+                "para13": "",
+                "para14": "",
+                "para15": "",
+                "para16": "",
+                "para17": "",
+                "para18": "",
+                "para19": "",
+                "para20": "",
+                "para21": "",
+                "para22": "",
+                "para23": "",
+                "para24": "",
+                "para25": "",
+                "para26": "",
+                "para27": "",
+                "para28": "",
+                "para29": "",
+                "para31": "",
+                "para32": "",
+                "para33": "",
+                "para34": "",
+                "para35": "",
+                "para36": "",
+                "para37": "",
+                "para38": "",
+                "para39": "",
+                "para40": "",
+                "para41": "",
+                "para42": "",
+                "para43": "",
+                "para44": "",
+                "para45": "",
+                "para46": "",
+                "para47": "",
+                "para48": "",
+                "para49": ""
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      },
+      "createTime": 1560999417452
+    }
+  ]
+}

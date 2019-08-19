@@ -1,0 +1,121 @@
+{
+  "tableId": "LSA-53",
+  "tableList": [
+    {
+      "createTime": 0,
+      "formID": "",
+      "content": {
+        "name": "虚拟训练表",
+        "tableId": "LSA-53",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练时间",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练课题",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练位置",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练人数",
+                "key": "para4"
+              },
+              
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码",
+                "key": "para5"
+              }
+             
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": ""
+            
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    },
+    {
+      "createTime": 0,
+      "formID": "LSA-53-1",
+      "content": {
+        "name": "虚拟训练表",
+        "tableId": "LSA-53",
+        "list": [
+          {
+            "tableName": "",
+            "tableHeader": [
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练时间",
+                "key": "para1"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练课题",
+                "key": "para2"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练位置",
+                "key": "para3"
+              },
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "虚拟训练人数",
+                "key": "para4"
+              },
+
+              {
+                "minWidth": 150,
+                "maxwidth": 300,
+                "title": "页码",
+                "key": "para5"
+              }
+
+            ],
+            "tableBody": [
+              {
+                "para1": "",
+                "para2": "",
+                "para3": "",
+                "para4": "",
+                "para5": ""
+
+              }
+            ],
+            "tableInfo": ""
+          }
+        ]
+      }
+    }
+  ]
+}
